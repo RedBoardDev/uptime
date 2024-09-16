@@ -4,18 +4,19 @@
     "url": "https://www.thomasott.fr",
     "icon": "https://icons.duckduckgo.com/ip3/www.thomasott.fr.ico",
     "slug": "thomas-ott",
-    "status": "up",
-    "uptime": "99.37%",
+    "status": "down",
+    "uptime": "99.46%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.37%",
-    "uptimeMonth": "99.37%",
-    "uptimeYear": "99.37%",
+    "uptimeWeek": "99.46%",
+    "uptimeMonth": "99.46%",
+    "uptimeYear": "99.46%",
     "time": 613,
     "timeDay": 596,
     "timeWeek": 613,
     "timeMonth": 613,
     "timeYear": 613,
     "dailyMinutesDown": {
+      "2024-09-16": 0,
       "2024-09-14": 22
     }
   }
