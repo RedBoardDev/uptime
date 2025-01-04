@@ -4,7 +4,7 @@
     "url": "https://www.thomasott.fr",
     "icon": "https://icons.duckduckgo.com/ip3/www.thomasott.fr.ico",
     "slug": "thomas-ott",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 716,
     "timeYear": 837,
     "dailyMinutesDown": {
+      "2025-01-04": 0,
       "2024-12-20": 17,
       "2024-12-09": 24,
       "2024-11-18": 29,
